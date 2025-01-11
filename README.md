@@ -2,6 +2,9 @@
 
 This repository provides an implementation of a DenseNet-121 model for detecting crop diseases. It leverages transfer learning to achieve high accuracy and includes real-time detection capabilities using a PC camera.
 
+### **Repository Under**: AcWoC'25  
+### **Club**: Android Club, VIT Bhopal University  
+
 ## Features
 - **DenseNet-121 Transfer Learning**: Pre-trained DenseNet-121 model adapted for crop disease classification.
 - **Real-time Detection**: Includes code for real-time detection using a webcam.
