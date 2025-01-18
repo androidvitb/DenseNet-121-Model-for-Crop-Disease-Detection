@@ -1,0 +1,17 @@
+# Required libraries for DenseNet-121 Model for Crop Disease Detection
+
+# Deep learning frameworks
+tensorflow
+keras
+
+# Computer vision library
+opencv-python
+
+# Numerical computing library
+numpy
+
+# Data visualization library
+matplotlib
+
+# Jupyter Notebook
+jupyter
